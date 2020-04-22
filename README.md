@@ -20,7 +20,7 @@ java HLFClienteTCP
 java HLFClienteTCP
 ```
 
-## Build with 🛠️
+## Built with 🛠️
 
 * [JAVA](https://www.oracle.com/java/) 
 * [JAVAC](https://openjdk.java.net/groups/compiler/) 
